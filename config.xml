@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="br.com.matutodapraia.rmdp" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Rádio Matuto da Praia</name>
-    <description>Escute os seus artistas, playlists e álbuns favoritos, fique mais perto dos seus ídolos e participe das melhores promoções e ações na nossa rádio.</description>
+    <name>Radio Bumpkin From Beach</name>
+    <description>Listen to your favorite artists, playlists and albums, get closer to your idols and participate in the best promotions and actions on our radio.</description>
     <author email="isaiaswebnet@gmail.com" href="http://skynetsites.com.br">Isaias Oliveira</author>
     <content src="index.html" />
     <engine name="android" spec="~7.0.0" />
@@ -37,7 +37,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
     </platform>
-    <preference name="AppName" value="Rádio Matuto da Praia" />
+    <preference name="AppName" value="Radio Bumpkin From Beach" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="UIWebViewBounce" value="false" />
